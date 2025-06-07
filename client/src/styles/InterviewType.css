@@ -1,0 +1,20 @@
+.interview-type-container {
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    margin-top: 60px;
+}
+
+.interview-options button {
+    margin: 12px;
+    padding: 12px 22px;
+    font-size: 12px;
+    cursor: pointer;
+    border: 1px solid #999;
+    border-radius: 12px;
+    background-color: bisque;
+    transition: background-color 0.3s ease;
+}
+
+.interview-options button:hover {
+    background-color: aquamarine;
+}
