@@ -1,6 +1,7 @@
 import React from 'react';
 import '../styles/GoalSelection.css';
 
+
 const GoalSelection = ({onSelect}) => {
     return (
         <div className="goal-container">
